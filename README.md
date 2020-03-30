@@ -1,11 +1,11 @@
-### prettier-config-rubinetti
+### prettier-config-greenelab
 
 Prettier config
 
 
 ### Installation
 
-`yarn add --dev git+https://git@github.com/vincerubinetti/prettier-config-rubinetti.git`
+`yarn add --dev git+https://git@github.com/greenelab/prettier-config-greenelab.git`
 
 
 
@@ -16,7 +16,7 @@ See: https://prettier.io/docs/en/configuration.html#sharing-configurations
 In a `.prettierrc.yaml` file:
 
 ```yaml
-prettier-config-rubinetti
+prettier-config-greenelab
 ```
     
 
